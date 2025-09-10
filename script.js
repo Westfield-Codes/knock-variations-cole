@@ -1,3 +1,8 @@
+ /* stored jokes
+  * "i didnt know you could yodel!"
+  * " wooden shoe like to know!"
+  * "Lettucein, it's cold out here!"
+  */
 
 /* Global variables */
 var who = "little old lady";
