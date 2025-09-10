@@ -1,7 +1,7 @@
 
 /* Global variables */
-var who = "wooden shoe";
-var joke = "Wooden shoe like to know!";
+var who = "little old lady";
+var joke = "i didnt know you could yodel!";
 var expected = who + " who?";
 
 /* Simple version */
