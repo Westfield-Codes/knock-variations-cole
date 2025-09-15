@@ -3,7 +3,6 @@
   * " wooden shoe like to know!"
   * "Lettucein, it's cold out here!"
   */
-
 /* Global variables */
 var who = "little old lady";
 var joke = "i didnt know you could yodel!";
